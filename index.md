@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Hello World!
 
-You can use the [editor on GitHub](https://github.com/Ariane-A/ariane-a.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is a documentation of the start my web developer journey. After studying Psychology for my undergraduate and Masters' degree, I decided to forgo all those years of hard work and throw myself in the uncharted territory of web development!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have done roughly a year and a half of self study, trying to learn languages such as JavaScript, HTML, CSS and dabbled in Ruby, SQL, and Python.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are my projects!
+
+**(Coming Soon!)**
 
 ```markdown
 Syntax highlighted code block
