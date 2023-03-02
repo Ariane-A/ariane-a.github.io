@@ -126,6 +126,11 @@ header {
 }
 /* Education Styles
 ----------------------------*/
+.education {
+  background-image: url("../images/joanna-kosinska-unsplash.jpg");
+  background-size: cover;
+  background-position: top right;
+}
 
 /* Contact info Styles
 ----------------------------*/
